@@ -41,7 +41,7 @@ F	| T
 
 */
 
-// if p is the case, then q must be the case
+// if p (antecedent) is the case, then q (consequent) must be the case (Modus ponens)
 if (p) {
   q = true;
   return q;
